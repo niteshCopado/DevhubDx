@@ -6,8 +6,8 @@
     <enableFlowBREncodedFixEnabled>true</enableFlowBREncodedFixEnabled>
     <enableFlowCustomPropertyEditor>false</enableFlowCustomPropertyEditor>
     <enableFlowDeployAsActiveEnabled>false</enableFlowDeployAsActiveEnabled>
-    <enableFlowFieldFilterEnabled>true</enableFlowFieldFilterEnabled>
-    <enableFlowFormulasFixEnabled>false</enableFlowFormulasFixEnabled>
+    <enableFlowFieldFilterEnabled>false</enableFlowFieldFilterEnabled>
+    <enableFlowFormulasFixEnabled>true</enableFlowFormulasFixEnabled>
     <enableFlowInterviewSharingEnabled>true</enableFlowInterviewSharingEnabled>
     <enableFlowNullPreviousValueFix>false</enableFlowNullPreviousValueFix>
     <enableFlowPauseEnabled>false</enableFlowPauseEnabled>
@@ -18,5 +18,5 @@
     <isEnhancedFlowListViewVisible>true</isEnhancedFlowListViewVisible>
     <isFlowApexContextRetired>false</isFlowApexContextRetired>
     <isManageFlowRequiredForAutomationCharts>false</isManageFlowRequiredForAutomationCharts>
-    <isTimeResumedInSameRunContext>false</isTimeResumedInSameRunContext>
+    <isTimeResumedInSameRunContext>true</isTimeResumedInSameRunContext>
 </FlowSettings>

@@ -2,8 +2,5 @@
 <IndustriesSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <enableAccountScoreEnabled>false</enableAccountScoreEnabled>
     <enableCalcserviceEnabled>false</enableCalcserviceEnabled>
-    <enableEinsteinVisits>false</enableEinsteinVisits>
     <enableIndLoyaltyEnabled>false</enableIndLoyaltyEnabled>
-    <enableObjectDetection>false</enableObjectDetection>
-    <enableVisitInventoryEnabled>false</enableVisitInventoryEnabled>
 </IndustriesSettings>
